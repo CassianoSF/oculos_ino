@@ -32,7 +32,7 @@ void setup() {
   }
 
   WiFi.mode(WIFI_STA);
-  WiFiMulti.addAP("Bionexus", "bionexus7787");
+  WiFiMulti.addAP("UNOESC", "");
 
 }
 
